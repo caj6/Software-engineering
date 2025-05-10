@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.Json; // Added for JsonSerializerOptions if needed, and to be explicit
+using item.model;
+using File = System.IO.File; // Explicitly alias System.IO.File to avoid any potential ambiguity if File.model.File were to have static methods in the future.
 
 namespace BackupApp.Models
 {
@@ -18,7 +21,6 @@ namespace BackupApp.Models
         {
             _jobs.Add(new BackupJob(_nextId++, name, source, destination, mode, logFormat));
         }
-
 
         public bool DeleteJob(int id)
         {
@@ -57,21 +59,25 @@ namespace BackupApp.Models
             long totalSize = 0;
             double totalTime = 0;
 
+            // List to hold all log entries for the current job execution
+            var dailyLogEntries = new List<LogEntry>();
+
             foreach (var filePath in Directory.GetFiles(job.SourcePath, "*", SearchOption.AllDirectories))
             {
                 string relativePath = Path.GetRelativePath(job.SourcePath, filePath);
                 string destFile = Path.Combine(job.DestinationPath, relativePath);
 
-                bool shouldCopy = job.Mode == "full" || !File.Exists(destFile);
+                // Using System.IO.File explicitly for clarity, or rely on correct resolution
+                bool shouldCopy = job.Mode == "full" || !System.IO.File.Exists(destFile);
                 if (!shouldCopy) continue;
 
                 Directory.CreateDirectory(Path.GetDirectoryName(destFile)!);
 
                 stopwatch.Restart();
-                File.Copy(filePath, destFile, true);
+                System.IO.File.Copy(filePath, destFile, true);
                 stopwatch.Stop();
 
-                var fileInfo = new FileInfo(filePath);
+                var fileInfo = new FileInfo(filePath); // System.IO.FileInfo
                 long size = fileInfo.Length;
                 double timeTaken = stopwatch.Elapsed.TotalMilliseconds;
 
@@ -88,9 +94,14 @@ namespace BackupApp.Models
                     transferTime: timeTaken
                 );
 
-                string json = System.Text.Json.JsonSerializer.Serialize(log);
-                File.AppendAllText(dailyLogPath, json + "," + Environment.NewLine);
+                dailyLogEntries.Add(log); // Add to list instead of writing immediately
             }
+
+            // Serialize the entire list of daily log entries to JSON
+            // Using JsonSerializerOptions for indented output for better readability (optional)
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            string dailyJsonOutput = JsonSerializer.Serialize(dailyLogEntries, options);
+            System.IO.File.WriteAllText(dailyLogPath, dailyJsonOutput); // Write the whole array at once
 
             // Write job infos to status log
             var status = new
@@ -102,14 +113,14 @@ namespace BackupApp.Models
                 Time = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss")
             };
 
-            string statusJson = System.Text.Json.JsonSerializer.Serialize(status);
-            File.AppendAllText(statusLogPath, statusJson + Environment.NewLine);
+            string statusJson = JsonSerializer.Serialize(status, options);
+            System.IO.File.WriteAllText(statusLogPath, statusJson + Environment.NewLine);
+
 
             // Update job state
             job.Status = "executed";
 
             return true;
         }
-
     }
 }

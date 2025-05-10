@@ -1,4 +1,4 @@
-﻿
+﻿// Controllers/BackupController.cs
 using BackupApp.Models;
 using BackupApp.Views;
 using BackupApp.Services;
@@ -39,7 +39,6 @@ namespace BackupApp.Controllers
                         _view.ShowMessage("job_added");
                         break;
 
-
                     case 2:
                         var jobs = _manager.GetAllJobs();
                         if (jobs.Count == 0)
@@ -48,7 +47,7 @@ namespace BackupApp.Controllers
                             break;
                         }
 
-                        _view.ListJobs(jobs); 
+                        _view.ListJobs(jobs);
 
                         int execId = _view.GetJobId();
                         bool success = _manager.ExecuteJob(execId);
@@ -62,6 +61,7 @@ namespace BackupApp.Controllers
                             _view.ShowMessage("job_deleted");
                             break;
                         }
+
                     case 4:
                         {
                             int id = _view.GetJobId();
@@ -79,15 +79,19 @@ namespace BackupApp.Controllers
                     case 5:
                         _view.ListJobs(_manager.GetAllJobs());
                         break;
+
                     case 6:
                         _view.ChangeLanguage();
                         break;
+
                     case 7:
                         _view.ClearScreen();
                         break;
+
                     case 8:
                         running = false;
                         break;
+
                     default:
                         _view.ShowMessage("invalid_option");
                         break;

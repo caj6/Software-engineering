@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Views/ConsoleView.cs
+using System;
 using System.IO;
 using System.Text.Json.Nodes;
 using BackupApp.Models;
@@ -51,21 +52,15 @@ namespace BackupApp.Views
             Console.Write(_lang.Get("enter_destination"));
             return Console.ReadLine()!;
         }
+        public void ClearScreen()
+        {
+            Console.Clear();
+        }
 
         public string GetBackupMode()
         {
-            Console.WriteLine("Choose backup mode:");
-            Console.WriteLine("1. Full");
-            Console.WriteLine("2. Differential");
-            Console.Write("Enter choice (1 or 2): ");
-
-            string input = Console.ReadLine()!;
-            return input switch
-            {
-                "1" => "full",
-                "2" => "diff",
-                _ => GetBackupMode() 
-            };
+            Console.Write(_lang.Get("choose_mode"));
+            return Console.ReadLine()!;
         }
 
         public int GetJobId()
@@ -132,16 +127,9 @@ namespace BackupApp.Views
 
             Console.WriteLine(divider);
         }
-
-        public void ClearScreen()
-        {
-            Console.Clear();
-        }
-
         private string Truncate(string text, int maxLength)
         {
             return text.Length <= maxLength ? text : text[..(maxLength - 3)] + "...";
         }
-
     }
 }

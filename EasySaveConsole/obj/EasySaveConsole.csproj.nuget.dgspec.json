@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole.csproj": {}
+    "C:\\Users\\junio\\Downloads\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole.csproj": {
+    "C:\\Users\\junio\\Downloads\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\Downloads\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole.csproj",
         "projectName": "EasySaveConsole",
-        "projectPath": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole.csproj",
+        "projectPath": "C:\\Users\\junio\\Downloads\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\obj\\",
+        "outputPath": "C:\\Users\\junio\\Downloads\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
