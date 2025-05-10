@@ -17,14 +17,16 @@ namespace BackupApp.Views
 
         public void ShowMenu()
         {
-            Console.WriteLine("==== MENU ====");
+            Console.WriteLine("------Welcome to easy save software---------");
+            Console.WriteLine("======= MENU ======");
             Console.WriteLine("1. " + _lang.Get("menu_add"));
             Console.WriteLine("2. " + _lang.Get("menu_execute"));
             Console.WriteLine("3. " + _lang.Get("menu_delete"));
             Console.WriteLine("4. " + _lang.Get("menu_edit"));
             Console.WriteLine("5. " + _lang.Get("menu_list"));
             Console.WriteLine("6. " + _lang.Get("menu_lang"));
-            Console.WriteLine("7. " + _lang.Get("menu_exit"));
+            Console.WriteLine("7. " + _lang.Get("menu_clear"));
+            Console.WriteLine("8. " + _lang.Get("menu_exit"));
         }
 
         public int GetMenuChoice()
@@ -37,7 +39,6 @@ namespace BackupApp.Views
             Console.Write("Enter a name for this backup job: ");
             return Console.ReadLine()!;
         }
-
 
         public string GetSourcePath()
         {
@@ -67,7 +68,6 @@ namespace BackupApp.Views
             };
         }
 
-
         public int GetJobId()
         {
             Console.Write(_lang.Get("enter_id"));
@@ -88,8 +88,6 @@ namespace BackupApp.Views
             string input = Console.ReadLine()!;
             return input == "1" ? "json" : GetLogFormat();  // json logs
         }
-
-
 
         public void ChangeLanguage()
         {
@@ -135,7 +133,10 @@ namespace BackupApp.Views
             Console.WriteLine(divider);
         }
 
-
+        public void ClearScreen()
+        {
+            Console.Clear();
+        }
 
         private string Truncate(string text, int maxLength)
         {

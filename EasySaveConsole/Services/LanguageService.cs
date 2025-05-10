@@ -16,6 +16,7 @@ namespace BackupApp.Services
             ["menu_edit"] = ("Edit backup job", "Modifier une tâche de sauvegarde"),
             ["menu_list"] = ("List all backup jobs", "Lister toutes les tâches"),
             ["menu_lang"] = ("Change language", "Changer de langue"),
+            ["menu_clear"] = ("Clear console screen", "Effacer l'ecran du console"),
             ["menu_exit"] = ("Exit", "Quitter"),
             ["choose_option"] = ("Choose an option: ", "Choisissez une option : "),
             ["enter_source"] = ("Enter the source folder path: ", "Entrez le chemin du dossier source : "),

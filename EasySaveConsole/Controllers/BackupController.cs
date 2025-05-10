@@ -83,6 +83,9 @@ namespace BackupApp.Controllers
                         _view.ChangeLanguage();
                         break;
                     case 7:
+                        _view.ClearScreen();
+                        break;
+                    case 8:
                         running = false;
                         break;
                     default:

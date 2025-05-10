@@ -1,33 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\",
+  "WorkspaceRootPath": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\source\\repos\\easysaveconsole\\easysaveconsole\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\source\\repos\\easysaveconsole\\easysaveconsole\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\source\\repos\\easysaveconsole\\easysaveconsole\\controllers\\backupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\ease\\easysaveconsole\\easysaveconsole\\controllers\\backupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\controllers\\backupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\source\\repos\\easysaveconsole\\easysaveconsole\\models\\backupjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\backupjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\ease\\easysaveconsole\\easysaveconsole\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\source\\repos\\easysaveconsole\\easysaveconsole\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\source\\repos\\easysaveconsole\\easysaveconsole\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\source\\repos\\easysaveconsole\\easysaveconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\ease\\easysaveconsole\\easysaveconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,98 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ConsoleView.cs",
-              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Views\\ConsoleView.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\Views\\ConsoleView.cs",
               "RelativeDocumentMoniker": "EasySaveConsole\\Views\\ConsoleView.cs",
-              "ToolTip": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Views\\ConsoleView.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\Views\\ConsoleView.cs",
               "RelativeToolTip": "EasySaveConsole\\Views\\ConsoleView.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAADwv4gAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwIkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T13:17:31.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Services\\LanguageService.cs",
-              "RelativeDocumentMoniker": "EasySaveConsole\\Services\\LanguageService.cs",
-              "ToolTip": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Services\\LanguageService.cs",
-              "RelativeToolTip": "EasySaveConsole\\Services\\LanguageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:32:57.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LogEntry.cs",
-              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Models\\LogEntry.cs",
-              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\LogEntry.cs",
-              "ToolTip": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Models\\LogEntry.cs",
-              "RelativeToolTip": "EasySaveConsole\\Models\\LogEntry.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T08:55:33.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BackupManager.cs",
-              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Models\\BackupManager.cs",
-              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\BackupManager.cs",
-              "ToolTip": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Models\\BackupManager.cs",
-              "RelativeToolTip": "EasySaveConsole\\Models\\BackupManager.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAADwv2gAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:28:35.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BackupJob.cs",
-              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Models\\BackupJob.cs",
-              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\BackupJob.cs",
-              "ToolTip": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Models\\BackupJob.cs",
-              "RelativeToolTip": "EasySaveConsole\\Models\\BackupJob.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:17:20.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "BackupController.cs",
-              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Controllers\\BackupController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\Controllers\\BackupController.cs",
               "RelativeDocumentMoniker": "EasySaveConsole\\Controllers\\BackupController.cs",
-              "ToolTip": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Controllers\\BackupController.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\Controllers\\BackupController.cs",
               "RelativeToolTip": "EasySaveConsole\\Controllers\\BackupController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T13:17:10.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\Program.cs",
               "RelativeDocumentMoniker": "EasySaveConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\acer nitro jdid\\source\\repos\\EasySaveConsole\\EasySaveConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\Ease\\EasySaveConsole\\EasySaveConsole\\Program.cs",
               "RelativeToolTip": "EasySaveConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:15:02.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:15:02.11Z"
             }
           ]
         }
