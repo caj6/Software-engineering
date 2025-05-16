@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "EasySaveConsole\\Services\\LanguageService.cs",
               "ToolTip": "C:\\Users\\junio\\Downloads\\EasySaveConsole\\EasySaveConsole\\EasySaveConsole\\Services\\LanguageService.cs",
               "RelativeToolTip": "EasySaveConsole\\Services\\LanguageService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T11:33:37.018Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "EasySaveConsole\\Models\\BackupManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:28:35.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:28:35.119Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "EasySaveConsole\\Views\\ConsoleView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:17:31.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:17:31.261Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "EasySaveConsole\\Controllers\\BackupController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:17:10.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:17:10.366Z"
             },
             {
               "$type": "Document",
