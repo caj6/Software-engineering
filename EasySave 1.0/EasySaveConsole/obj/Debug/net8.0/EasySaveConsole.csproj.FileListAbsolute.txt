@@ -26,3 +26,18 @@ C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Deb
 C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.pdb
 C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.genruntimeconfig.cache
 C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\ref\EasySaveConsole.dll
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.exe
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.deps.json
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.runtimeconfig.json
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.dll
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.pdb
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.AssemblyInfo.cs
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.sourcelink.json
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.dll
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\refint\EasySaveConsole.dll
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.pdb
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.genruntimeconfig.cache
+C:\Users\junio\Downloads\GitHub\Software-engineering\EasySave 1.0\EasySaveConsole\obj\Debug\net8.0\ref\EasySaveConsole.dll

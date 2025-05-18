@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junio\\Downloads\\EasySave_Latest_V2\\EasySave_WPF555\\EasySave2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF68919-2086-4148-8FE2-F11BD494644A}|EasySave2\\EasySave2.csproj|c:\\users\\junio\\downloads\\easysave_latest_v2\\easysave_wpf555\\easysave2\\easysave2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF68919-2086-4148-8FE2-F11BD494644A}|EasySave2\\EasySave2.csproj|solutionrelative:easysave2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\EasySave_Latest_V2\\EasySave_WPF555\\EasySave2\\EasySave2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EasySave2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\EasySave_Latest_V2\\EasySave_WPF555\\EasySave2\\EasySave2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EasySave2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:32:20.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

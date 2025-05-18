@@ -1,0 +1,70 @@
+<Window x:Class="EasySave2.Views.AddJobDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{DynamicResource AddJob}" Height="450" Width="400"
+        WindowStartupLocation="CenterScreen"
+        Background="{StaticResource BackgroundBrush}">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="20">
+
+            <TextBlock Text="{DynamicResource JobName}" Foreground="{StaticResource TextBrush}"/>
+            <TextBox x:Name="NameInput" Margin="0 5"/>
+
+            <TextBlock Text="{DynamicResource SourcePath}" Foreground="{StaticResource TextBrush}"/>
+            <TextBox x:Name="SourceInput" Margin="0 5"/>
+
+            <TextBlock Text="{DynamicResource DestinationPath}" Foreground="{StaticResource TextBrush}"/>
+            <TextBox x:Name="DestInput" Margin="0 5"/>
+
+            <TextBlock Text="{DynamicResource BackupMode}" Foreground="{StaticResource TextBrush}"/>
+            <ComboBox x:Name="ModeSelect" Margin="0 5" SelectedIndex="0"
+                      Background="#8E2DE2" Foreground="White">
+                <ComboBoxItem Content="Full"/>
+                <ComboBoxItem Content="Diff"/>
+            </ComboBox>
+
+            <!-- Encryption Options -->
+            <CheckBox x:Name="EncryptCheckbox"
+                      Content="Encrypt Files (XOR)"
+                      Margin="0 10 0 0"
+                      Foreground="White"
+                      Checked="EncryptCheckbox_Checked"
+                      Unchecked="EncryptCheckbox_Unchecked"/>
+
+            <StackPanel x:Name="ExtensionInputPanel" Visibility="Collapsed">
+                <TextBlock x:Name="ExtensionsLabel"
+               Text="Extensions to Encrypt (e.g. .txt,.pdf,*)"
+               Foreground="White"
+               Margin="0 5 0 0"/>
+                <TextBox x:Name="ExtensionsInput"
+             Height="25"
+             Background="#FFF"
+             Foreground="#000"
+             Margin="0 5"/>
+            </StackPanel>
+
+
+            <!-- Logging Format -->
+            <TextBlock Text="Log Format:" Margin="10 10 0 0"/>
+            <ComboBox x:Name="LogFormatSelect" SelectedIndex="0" Margin="0 5">
+                <ComboBoxItem Content="json"/>
+                <ComboBoxItem Content="xml"/>
+            </ComboBox>
+
+            <!-- Blocked Software -->
+            <TextBlock Text="Blocked Software (e.g., notepad.exe)" Margin="0,10,0,4"/>
+            <TextBox x:Name="SoftwarePackageBox"
+                     Height="30"
+                     Padding="5"
+                     Background="#FFF"
+                     Foreground="#000"/>
+
+            <Button Content="{DynamicResource AddJob}"
+                    Margin="10 15 10 0"
+                    Width="100"
+                    HorizontalAlignment="Center"
+                    Click="AddJob_Click"/>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

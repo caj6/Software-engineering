@@ -1,0 +1,28 @@
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.exe
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.deps.json
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.runtimeconfig.json
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.pdb
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.AssemblyInfo.cs
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\refint\CryptoSoft.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.pdb
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.genruntimeconfig.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\ref\CryptoSoft.dll
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.exe
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.deps.json
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.runtimeconfig.json
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.dll
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\bin\Debug\net8.0\CryptoSoft.pdb
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.AssemblyInfo.cs
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.dll
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\refint\CryptoSoft.dll
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.pdb
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\CryptoSoft.genruntimeconfig.cache
+C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\CryptoSoft\CryptoSoft\obj\Debug\net8.0\ref\CryptoSoft.dll
