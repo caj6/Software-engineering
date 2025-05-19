@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\onedrive\\desktop\\easysave\\delivrable 1\\easysaveconsole\\easysaveconsole\\controllers\\backupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\controllers\\backupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\onedrive\\desktop\\easysave\\delivrable 1\\easysaveconsole\\easysaveconsole\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\onedrive\\desktop\\easysave\\delivrable 1\\easysaveconsole\\easysaveconsole\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\onedrive\\desktop\\easysave\\delivrable 1\\easysaveconsole\\easysaveconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\onedrive\\desktop\\easysave\\delivrable 1\\easysaveconsole\\easysaveconsole\\models\\statuslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\statuslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\onedrive\\desktop\\easysave\\delivrable 1\\easysaveconsole\\easysaveconsole\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\acer nitro jdid\\onedrive\\desktop\\easysave\\delivrable 1\\easysaveconsole\\easysaveconsole\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusLog.cs",
+              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Models\\StatusLog.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\StatusLog.cs",
+              "ToolTip": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Models\\StatusLog.cs",
+              "RelativeToolTip": "EasySaveConsole\\Models\\StatusLog.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:16:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Models\\LogEntry.cs",
+              "RelativeToolTip": "EasySaveConsole\\Models\\LogEntry.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:08:58.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Services\\LanguageService.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Services\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Services\\LanguageService.cs",
+              "RelativeToolTip": "EasySaveConsole\\Services\\LanguageService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T11:33:37.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackupManager.cs",
+              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Models\\BackupManager.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\BackupManager.cs",
+              "ToolTip": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Models\\BackupManager.cs",
+              "RelativeToolTip": "EasySaveConsole\\Models\\BackupManager.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwJMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:28:35.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleView.cs",
+              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Views\\ConsoleView.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Views\\ConsoleView.cs",
+              "ToolTip": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Views\\ConsoleView.cs",
+              "RelativeToolTip": "EasySaveConsole\\Views\\ConsoleView.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAA5wJMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:17:31.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackupController.cs",
+              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Controllers\\BackupController.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Controllers\\BackupController.cs",
+              "ToolTip": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Controllers\\BackupController.cs",
+              "RelativeToolTip": "EasySaveConsole\\Controllers\\BackupController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:17:10.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Program.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\EASYSAVE\\Delivrable 1\\EasySaveConsole\\EasySaveConsole\\Program.cs",
+              "RelativeToolTip": "EasySaveConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:15:02.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

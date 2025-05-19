@@ -1,0 +1,42 @@
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.exe
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.deps.json
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.runtimeconfig.json
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.dll
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.pdb
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.AssemblyInfo.cs
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.dll
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\refint\EasySaveConsole.dll
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.pdb
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.genruntimeconfig.cache
+C:\Users\acer nitro jdid\source\repos\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\ref\EasySaveConsole.dll
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.exe
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.deps.json
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.runtimeconfig.json
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.dll
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.pdb
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.AssemblyInfo.cs
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.dll
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\refint\EasySaveConsole.dll
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.pdb
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.genruntimeconfig.cache
+C:\Users\junio\Downloads\EasySaveConsole\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\ref\EasySaveConsole.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.exe
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.deps.json
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.runtimeconfig.json
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\bin\Debug\net8.0\EasySaveConsole.pdb
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.AssemblyInfoInputs.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.AssemblyInfo.cs
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.csproj.CoreCompileInputs.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\refint\EasySaveConsole.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.pdb
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\EasySaveConsole.genruntimeconfig.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\Delivrable 1\EasySaveConsole\EasySaveConsole\obj\Debug\net8.0\ref\EasySaveConsole.dll
