@@ -1,5 +1,4 @@
-﻿// Program.cs
-using BackupApp.Controllers;
+﻿using BackupApp.Controllers;
 
 namespace BackupApp
 {

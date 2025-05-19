@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text.Json; // Added for JsonSerializerOptions if needed, and to be explicit
+using System.Text.Json; 
 using item.model;
-using File = System.IO.File; // Explicitly alias System.IO.File to avoid any potential ambiguity if File.model.File were to have static methods in the future.
+using File = System.IO.File; 
 
 namespace BackupApp.Models
 {
@@ -41,7 +41,6 @@ namespace BackupApp.Models
             var job = GetJobById(id);
             if (job == null) return false;
 
-            // Create log directories
             string logRoot = Path.Combine(job.DestinationPath, "logs");
             string dailyFolder = Path.Combine(logRoot, "daily");
             string statusFolder = Path.Combine(logRoot, "status");
@@ -49,7 +48,6 @@ namespace BackupApp.Models
             Directory.CreateDirectory(dailyFolder);
             Directory.CreateDirectory(statusFolder);
 
-            // Define log file paths
             string date = DateTime.Now.ToString("yyyyMMdd");
             string dailyLogPath = Path.Combine(dailyFolder, $"{job.Id}_{date}.json");
             string statusLogPath = Path.Combine(statusFolder, $"{job.Id}_{date}.json");
@@ -59,7 +57,6 @@ namespace BackupApp.Models
             long totalSize = 0;
             double totalTime = 0;
 
-            // List to hold all log entries for the current job execution
             var dailyLogEntries = new List<LogEntry>();
 
             foreach (var filePath in Directory.GetFiles(job.SourcePath, "*", SearchOption.AllDirectories))
@@ -67,7 +64,6 @@ namespace BackupApp.Models
                 string relativePath = Path.GetRelativePath(job.SourcePath, filePath);
                 string destFile = Path.Combine(job.DestinationPath, relativePath);
 
-                // Using System.IO.File explicitly for clarity, or rely on correct resolution
                 bool shouldCopy = job.Mode == "full" || !System.IO.File.Exists(destFile);
                 if (!shouldCopy) continue;
 
@@ -94,16 +90,13 @@ namespace BackupApp.Models
                     transferTime: timeTaken
                 );
 
-                dailyLogEntries.Add(log); // Add to list instead of writing immediately
+                dailyLogEntries.Add(log); 
             }
 
-            // Serialize the entire list of daily log entries to JSON
-            // Using JsonSerializerOptions for indented output for better readability (optional)
             var options = new JsonSerializerOptions { WriteIndented = true };
             string dailyJsonOutput = JsonSerializer.Serialize(dailyLogEntries, options);
-            System.IO.File.WriteAllText(dailyLogPath, dailyJsonOutput); // Write the whole array at once
+            System.IO.File.WriteAllText(dailyLogPath, dailyJsonOutput); 
 
-            // Write job infos to status log
             var status = new
             {
                 Name = job.Name,
@@ -116,8 +109,6 @@ namespace BackupApp.Models
             string statusJson = JsonSerializer.Serialize(status, options);
             System.IO.File.WriteAllText(statusLogPath, statusJson + Environment.NewLine);
 
-
-            // Update job state
             job.Status = "executed";
 
             return true;

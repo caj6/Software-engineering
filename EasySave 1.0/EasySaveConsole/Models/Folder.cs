@@ -27,7 +27,6 @@ public class Folder : Item
     public override void Get()
     {
         base.Get();
-        /// Console.WriteLine($"Contains {ListItems.Count} items.");
     }
 
     public void AddItem(Item item)

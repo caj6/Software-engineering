@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junio\\Downloads\\EasySave_Latest_V2\\EasySave_WPF555\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\Downloads\\Version 2.0\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
       "projectName": "CryptoSoft",
-      "projectPath": "C:\\Users\\junio\\Downloads\\EasySave_Latest_V2\\EasySave_WPF555\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
+      "projectPath": "C:\\Users\\junio\\Downloads\\Version 2.0\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junio\\Downloads\\EasySave_Latest_V2\\EasySave_WPF555\\CryptoSoft\\CryptoSoft\\obj\\",
+      "outputPath": "C:\\Users\\junio\\Downloads\\Version 2.0\\CryptoSoft\\CryptoSoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

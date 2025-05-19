@@ -8,8 +8,8 @@
         public string SourcePath { get; set; }
         public string DestinationPath { get; set; }
         public string Mode { get; set; }
-        public string LogFormat { get; set; } // logs
-        public string Status { get; set; } // "pending" or "executed"
+        public string LogFormat { get; set; }
+        public string Status { get; set; } 
 
 
         public BackupJob(int id, string name, string source, string destination, string mode, string logFormat)

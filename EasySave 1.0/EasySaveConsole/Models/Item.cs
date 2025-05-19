@@ -21,6 +21,5 @@ public abstract class Item
 
     public virtual void Get()
     {
-        /// Console.WriteLine($"Name: {name}, Size: {size} bytes, Last Modified: {lastModified}");
     }
 }

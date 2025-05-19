@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Diagnostics;
+using System.Text;
 
 class Program
 {
@@ -22,12 +23,18 @@ class Program
             return -1;
         }
 
+        if (mode != "encrypt" && mode != "decrypt")
+        {
+            Console.Error.WriteLine("Invalid mode. Use 'encrypt' or 'decrypt'.");
+            return -1;
+        }
+
         try
         {
             Stopwatch stopwatch = Stopwatch.StartNew();
 
             byte[] data = File.ReadAllBytes(sourcePath);
-            byte[] key = System.Text.Encoding.UTF8.GetBytes("EASYSAVE_KEY");
+            byte[] key = Encoding.UTF8.GetBytes("EASYSAVE_KEY");
             byte[] output = new byte[data.Length];
 
             for (int i = 0; i < data.Length; i++)
@@ -38,13 +45,13 @@ class Program
             File.WriteAllBytes(destPath, output);
 
             stopwatch.Stop();
-            long encryptionTime = stopwatch.ElapsedMilliseconds;
+            long operationTime = stopwatch.ElapsedMilliseconds;
 
-            return (int)encryptionTime;
+            return (int)operationTime;
         }
         catch (Exception ex)
         {
-            Console.Error.WriteLine("Error: " + ex.Message);
+            Console.Error.WriteLine($"Error during {mode}: " + ex.Message);
             return -1; 
         }
     }

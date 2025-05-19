@@ -20,7 +20,6 @@ public class File : Item
     public override void Get()
     {
         base.Get();
-        /// Console.WriteLine($"Type: {type}");
     }
 
     public string GetFullPath(string directory)

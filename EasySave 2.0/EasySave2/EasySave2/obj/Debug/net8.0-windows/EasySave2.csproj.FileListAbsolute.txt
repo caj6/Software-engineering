@@ -58,3 +58,33 @@ C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\EasySave2\EasySave2\
 C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.pdb
 C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.genruntimeconfig.cache
 C:\Users\junio\Downloads\EasySave_Latest_V2\EasySave_WPF555\EasySave2\EasySave2\obj\Debug\net8.0-windows\ref\EasySave2.dll
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\bin\Debug\net8.0-windows\EasySave2.exe
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\bin\Debug\net8.0-windows\EasySave2.deps.json
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\bin\Debug\net8.0-windows\EasySave2.runtimeconfig.json
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\bin\Debug\net8.0-windows\EasySave2.dll
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\bin\Debug\net8.0-windows\EasySave2.pdb
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\Resources\StringResources.en.baml
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\Resources\StringResources.fr.baml
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\Views\AddJobDialog.baml
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\App.baml
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\Views\AddJobDialog.g.cs
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\Views\MenuPage.g.cs
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2_MarkupCompile.cache
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2_MarkupCompile.lref
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\Views\HomePage.baml
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\Views\MenuPage.baml
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.g.resources
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.AssemblyInfoInputs.cache
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.AssemblyInfo.cs
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.csproj.CoreCompileInputs.cache
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.dll
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\refint\EasySave2.dll
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.pdb
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\EasySave2.genruntimeconfig.cache
+C:\Users\junio\Downloads\Version 2.0\EasySave2\EasySave2\obj\Debug\net8.0-windows\ref\EasySave2.dll
