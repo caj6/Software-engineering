@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\models\\backupjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\backupjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\controllers\\backupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\controllers\\backupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|solutionrelative:easysaveconsole\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2523DD3-4EF6-437A-8AFB-730C6FDA2203}|EasySaveConsole\\EasySaveConsole.csproj|c:\\users\\junio\\downloads\\github\\software-engineering\\easysave 1.0\\easysaveconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,36 +50,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\Folder.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\Folder.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\Folder.cs",
+              "RelativeToolTip": "EasySaveConsole\\Models\\Folder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:34:55.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\LogEntry.cs",
+              "RelativeToolTip": "EasySaveConsole\\Models\\LogEntry.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:35:42.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\File.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\File.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\File.cs",
+              "RelativeToolTip": "EasySaveConsole\\Models\\File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:34:49.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackupJob.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\BackupJob.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\BackupJob.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\BackupJob.cs",
+              "RelativeToolTip": "EasySaveConsole\\Models\\BackupJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:34:40.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LanguageService.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Services\\LanguageService.cs",
               "RelativeDocumentMoniker": "EasySaveConsole\\Services\\LanguageService.cs",
               "ToolTip": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Services\\LanguageService.cs",
               "RelativeToolTip": "EasySaveConsole\\Services\\LanguageService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T11:33:37.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BackupManager.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\BackupManager.cs",
               "RelativeDocumentMoniker": "EasySaveConsole\\Models\\BackupManager.cs",
               "ToolTip": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\BackupManager.cs",
               "RelativeToolTip": "EasySaveConsole\\Models\\BackupManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:28:35.119Z"
+              "WhenOpened": "2025-05-07T13:28:35.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "EasySaveConsole\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Models\\Item.cs",
+              "RelativeToolTip": "EasySaveConsole\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:35:39.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ConsoleView.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Views\\ConsoleView.cs",
               "RelativeDocumentMoniker": "EasySaveConsole\\Views\\ConsoleView.cs",
@@ -71,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "BackupController.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Controllers\\BackupController.cs",
               "RelativeDocumentMoniker": "EasySaveConsole\\Controllers\\BackupController.cs",
@@ -83,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Downloads\\GitHub\\Software-engineering\\EasySave 1.0\\EasySaveConsole\\Program.cs",
               "RelativeDocumentMoniker": "EasySaveConsole\\Program.cs",
