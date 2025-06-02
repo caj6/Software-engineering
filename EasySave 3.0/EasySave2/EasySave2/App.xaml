@@ -1,0 +1,56 @@
+﻿<Application x:Class="EasySave2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             ShutdownMode="OnExplicitShutdown"
+             StartupUri="Views/HomePage.xaml">
+
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <!-- Updated Purple Color Palette -->
+            <Color x:Key="CyberPurple">#6A0DAD</Color>
+            <!-- Deep Purple -->
+            <Color x:Key="CyberDark">#1F1B24</Color>
+            <!-- Dark Grayish Background -->
+            <Color x:Key="CyberAccent">#9A32CD</Color>
+            <!-- Vibrant Purple Accent -->
+            <Color x:Key="NeonGreen">#39FF14</Color>
+            <!-- Accent Color for Highlights -->
+
+            <SolidColorBrush x:Key="BackgroundBrush" Color="{StaticResource CyberDark}" />
+            <SolidColorBrush x:Key="AccentBrush" Color="{StaticResource CyberPurple}" />
+            <SolidColorBrush x:Key="TextBrush" Color="White" />
+            <SolidColorBrush x:Key="NeonTextBrush" Color="{StaticResource NeonGreen}" />
+
+            <!-- Styles -->
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="{StaticResource AccentBrush}"/>
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="Margin" Value="5"/>
+                <Setter Property="Padding" Value="6,3"/>
+                <Setter Property="BorderThickness" Value="0"/>
+                <Setter Property="Cursor" Value="Hand"/>
+            </Style>
+
+            <Style TargetType="TextBlock">
+                <Setter Property="Foreground" Value="{StaticResource TextBrush}" />
+            </Style>
+
+            <!-- ComboBox item style for readable dropdowns -->
+
+            <Style TargetType="ComboBox">
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="Background" Value="White"/>
+                <Setter Property="Padding" Value="3"/>
+            </Style>
+
+
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resources/StringResources.en.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

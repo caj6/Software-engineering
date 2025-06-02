@@ -1,0 +1,28 @@
+<Window x:Class="EasySave2.Views.GeneralSettingsDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="General Settings"
+        Height="300" Width="400"
+        WindowStartupLocation="CenterScreen"
+        Background="{StaticResource BackgroundBrush}">
+
+    <StackPanel Margin="20">
+        <TextBlock Text="Log Format:" Foreground="White" Margin="0 0 0 5"/>
+        <ComboBox x:Name="LogFormatCombo" Width="100" Margin="0 0 0 10">
+            <ComboBoxItem Content="json"/>
+            <ComboBoxItem Content="xml"/>
+        </ComboBox>
+
+        <TextBlock Text="Encryption Extensions (e.g. .txt,.pdf,*)" Foreground="White" Margin="0 0 0 5"/>
+        <TextBox x:Name="GlobalExtensionsInput" Margin="0 0 0 10"/>
+
+        <TextBlock Text="Large File Threshold (KB)" Foreground="White" Margin="0 0 0 5"/>
+        <TextBox x:Name="LargeFileThresholdInput" Margin="0 0 0 10"/>
+      
+        <TextBlock Text="Priority Extensions (e.g. .pdf,.docx)" Foreground="White" Margin="0 0 0 5"/>
+        <TextBox x:Name="PriorityExtensionsInput" Margin="0 0 0 10"/>
+
+
+      <Button Content="Save" Width="80" HorizontalAlignment="Center" Click="Save_Click"/>
+    </StackPanel>
+</Window>

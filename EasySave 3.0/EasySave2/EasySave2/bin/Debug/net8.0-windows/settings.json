@@ -1,0 +1,6 @@
+{
+  "GlobalLogFormat": "xml",
+  "GlobalEncryptionExtensions": "",
+  "LargeFileThresholdKB": 10000,
+  "GlobalPriorityExtensions": ""
+}

@@ -1,0 +1,99 @@
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.exe
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.deps.json
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.runtimeconfig.json
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.baml
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.g.cs
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_MarkupCompile.cache
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.g.resources
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfoInputs.cache
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfo.cs
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.csproj.CoreCompileInputs.cache
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\refint\EasySaveRemoteConsole.dll
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.genruntimeconfig.cache
+C:\Users\acer nitro jdid\Downloads\Version 2.0 (5)\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\ref\EasySaveRemoteConsole.dll
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.exe
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.deps.json
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.runtimeconfig.json
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.baml
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.g.cs
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\App.g.cs
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_MarkupCompile.cache
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.g.resources
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfoInputs.cache
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfo.cs
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.csproj.CoreCompileInputs.cache
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\refint\EasySaveRemoteConsole.dll
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.genruntimeconfig.cache
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\ref\EasySaveRemoteConsole.dll
+D:\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_Content.g.cs
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.exe
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.deps.json
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.runtimeconfig.json
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.baml
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.g.cs
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_Content.g.cs
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_MarkupCompile.cache
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.g.resources
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfoInputs.cache
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfo.cs
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.csproj.CoreCompileInputs.cache
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\refint\EasySaveRemoteConsole.dll
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.genruntimeconfig.cache
+C:\Users\peior\Downloads\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\ref\EasySaveRemoteConsole.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.exe
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.deps.json
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.runtimeconfig.json
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.baml
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.g.cs
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_Content.g.cs
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_MarkupCompile.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.g.resources
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfoInputs.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfo.cs
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.csproj.CoreCompileInputs.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\refint\EasySaveRemoteConsole.dll
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.genruntimeconfig.cache
+C:\Users\acer nitro jdid\OneDrive\Desktop\EASYSAVE\EasySave-finalVersion (1)\EasySave-finalVersion\VersionV4\Version 2.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\ref\EasySaveRemoteConsole.dll
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.exe
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.deps.json
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.runtimeconfig.json
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\bin\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.baml
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\RemoteConsole.g.cs
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_Content.g.cs
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole_MarkupCompile.cache
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.g.resources
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfoInputs.cache
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.AssemblyInfo.cs
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.csproj.CoreCompileInputs.cache
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.dll
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\refint\EasySaveRemoteConsole.dll
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.pdb
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\EasySaveRemoteConsole.genruntimeconfig.cache
+C:\Users\junio\Downloads\Version 3.0\Version 3.0\EasySave2\EasySaveRemoteConsole\obj\Debug\net8.0-windows\ref\EasySaveRemoteConsole.dll

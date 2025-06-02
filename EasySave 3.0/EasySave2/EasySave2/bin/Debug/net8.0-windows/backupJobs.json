@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Name": "job 1",
+    "SourcePath": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\source",
+    "DestinationPath": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\dest",
+    "Mode": "full",
+    "Status": "pending",
+    "UseEncryption": true,
+    "LogFormat": "json",
+    "ExtensionsToEncrypt": ".txt",
+    "SoftwarePackage": "",
+    "PriorityExtensions": "",
+    "IsPaused": false,
+    "IsStopped": false,
+    "Progress": 0
+  },
+  {
+    "Id": 3,
+    "Name": "JOB 4",
+    "SourcePath": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\source1",
+    "DestinationPath": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\DEST",
+    "Mode": "full",
+    "Status": "pending",
+    "UseEncryption": true,
+    "LogFormat": "xml",
+    "ExtensionsToEncrypt": "",
+    "SoftwarePackage": "",
+    "PriorityExtensions": "",
+    "IsPaused": false,
+    "IsStopped": false,
+    "Progress": 0
+  },
+  {
+    "Id": 4,
+    "Name": "JOB 5",
+    "SourcePath": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\DEST",
+    "DestinationPath": "C:\\Users\\acer nitro jdid\\OneDrive\\Desktop\\source1",
+    "Mode": "full",
+    "Status": "pending",
+    "UseEncryption": true,
+    "LogFormat": "json",
+    "ExtensionsToEncrypt": "*",
+    "SoftwarePackage": "",
+    "PriorityExtensions": "",
+    "IsPaused": false,
+    "IsStopped": false,
+    "Progress": 0
+  }
+]

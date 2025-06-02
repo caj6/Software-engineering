@@ -1,0 +1,14 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="AppTitle">EasySave 2.0</sys:String>
+    <sys:String x:Key="SelectLanguage">Choisir la langue</sys:String>
+    <sys:String x:Key="AddJob">Ajouter une sauvegarde</sys:String>
+    <sys:String x:Key="ExecuteJob">Exécuter</sys:String>
+    <sys:String x:Key="DeleteJob">Supprimer</sys:String>
+    <sys:String x:Key="EditJob">Modifier</sys:String>
+    <sys:String x:Key="JobName">Nom de la sauvegarde</sys:String>
+    <sys:String x:Key="SourcePath">Chemin source</sys:String>
+    <sys:String x:Key="DestinationPath">Chemin destination</sys:String>
+    <sys:String x:Key="BackupMode">Mode de sauvegarde</sys:String>
+</ResourceDictionary>

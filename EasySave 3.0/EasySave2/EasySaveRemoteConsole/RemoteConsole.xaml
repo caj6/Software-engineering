@@ -1,0 +1,57 @@
+﻿<Window x:Class="EasySaveRemoteConsole.RemoteConsole"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EasySave Remote Console" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Connection Controls -->
+        <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
+            <TextBlock Text="IP:" VerticalAlignment="Center" Margin="0 0 5 0"/>
+            <TextBox x:Name="IpAddressBox" Width="120" Margin="0 0 10 0" Text="127.0.0.1"/>
+            <TextBlock Text="Port:" VerticalAlignment="Center" Margin="0 0 5 0"/>
+            <TextBox x:Name="PortBox" Width="60" Margin="0 0 10 0" Text="9000"/>
+            <Button Content="Connect" Click="Connect_Click"/>
+        </StackPanel>
+
+        <!-- Job List -->
+        <DataGrid Grid.Row="1"
+          x:Name="JobGrid"
+          ItemsSource="{Binding Jobs}"
+          AutoGenerateColumns="False"
+          IsReadOnly="True"
+          SelectionMode="Single"
+          Margin="0 0 0 10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="100"/>
+                <DataGridTextColumn Header="Progress" Binding="{Binding Progress}" Width="100"/>
+
+                <DataGridTemplateColumn Header="Actions" Width="150">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Content="▶" Width="30" Margin="2"
+                                Click="Play_Click"
+                                Focusable="False"/>
+                                <Button Content="⏸" Width="30" Margin="2"
+                                Click="Pause_Click"
+                                Focusable="False"/>
+                                <Button Content="⏹" Width="30" Margin="2"
+                                Click="Stop_Click"
+                                Focusable="False"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        
+    </Grid>
+</Window>

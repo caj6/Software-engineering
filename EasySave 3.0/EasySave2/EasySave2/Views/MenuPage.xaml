@@ -1,0 +1,85 @@
+﻿<Page x:Class="EasySave2.Views.MenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:vm="clr-namespace:EasySave2.ViewModels"
+      xmlns:local="clr-namespace:EasySave2"
+      Title="MenuPage"
+      Background="{StaticResource BackgroundBrush}">
+
+    
+    <Page.DataContext>
+        <x:Static Member="local:App.SharedViewModel"/>
+    </Page.DataContext>
+
+    <Grid Background="{StaticResource BackgroundBrush}" Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Global settings row -->
+            <RowDefinition Height="*"/>
+            <!-- Job grid -->
+            <RowDefinition Height="Auto"/>
+            <!-- Control buttons -->
+        </Grid.RowDefinitions>
+
+        <!-- Job Listing -->
+        <DataGrid Grid.Row="1"
+                  x:Name="JobGrid"
+                  ItemsSource="{Binding BackupJobs}"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  SelectionMode="Extended"
+                  SelectionUnit="FullRow"
+                  Margin="0 0 0 10"
+                  SelectionChanged="JobGrid_SelectionChanged">
+
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#445169"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="Padding" Value="6"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="40"/>
+                <DataGridTextColumn Header="{DynamicResource JobName}" Binding="{Binding Name}" Width="*"/>
+                <DataGridTextColumn Header="{DynamicResource SourcePath}" Binding="{Binding SourcePath}" Width="*"/>
+                <DataGridTextColumn Header="{DynamicResource DestinationPath}" Binding="{Binding DestinationPath}" Width="*"/>
+                <DataGridTextColumn Header="{DynamicResource BackupMode}" Binding="{Binding Mode}" Width="80"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="100"/>
+
+                <DataGridTemplateColumn Header="Progress" Width="120">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ProgressBar Value="{Binding Progress}" Maximum="100" Height="16"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="Actions" Width="140">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Content="▶" Width="30" Margin="2" Click="ResumeJob_Click"/>
+                                <Button Content="⏸" Width="30" Margin="2" Click="PauseJob_Click"/>
+                                <Button Content="⏹" Width="30" Margin="2" Click="StopJob_Click"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- 🔘 Control Buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10">
+            <Button Content="{DynamicResource AddJob}" Width="100" Margin="5" Click="AddJob_Click"/>
+            <Button Content="{DynamicResource EditJob}" Width="100" Margin="5" Click="EditJob_Click"/>
+            <Button Content="{DynamicResource DeleteJob}" Width="100" Margin="5" Click="DeleteJob_Click"/>
+            <Button Content="{DynamicResource ExecuteJob}" Width="100" Margin="5" Click="ExecuteJob_Click"/>
+            <Button Content="General Settings" Width="150" Margin="5" Click="OpenGeneralSettings_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Page>
